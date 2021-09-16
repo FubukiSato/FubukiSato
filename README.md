@@ -14,11 +14,11 @@
   <a href="https://github.com/FubukiSato">
     <img height="20" src="https://img.shields.io/github/followers/FubukiSato?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Suger">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Suger/posts.svg" />
+  <a href="http://qiita.com/sugar1009">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sugar1009/posts.svg" />
   </a>
-  <//qiita.com/Suger">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Suger/contributions.svg" />
+  <//qiita.com/sugar1009">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/sugar1009/contributions.svg" />
   </a>
 </p>
 
