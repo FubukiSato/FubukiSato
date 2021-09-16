@@ -17,6 +17,7 @@
   <a href="http://qiita.com/suger1009">
     <img height="20" src="https://qiita-badge.apiapi.app/s/suger1009/posts.svg" />
   </a>
+  <//qiita.com/suger1009">
     <img height="20" src="https://qiita-badge.apiapi.app/s/suger1009/contributions.svg" />
   </a>
 </p>
