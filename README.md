@@ -19,9 +19,11 @@
 </p>
   
 - 🏫 I'm a university student at the University of Aizu.
-- 🌱 I am currently addicted to creating web applications.(Ruby on Rails)
+- 🌱 I am currently addicted to creating web applications.
+-    C , Java , Ruby , HTML , CSS , Jquery  | Ruby on Rails
 - 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
-
+- 
+  
 <a href="https://github.com/FubukiSato">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=FubukiSato&count_private=true&show_icons=true&theme=dracula" />
 </a>
