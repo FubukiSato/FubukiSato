@@ -29,6 +29,8 @@
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FubukiSato&layout=compact&theme=dracula" />
 </a>
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=FubukiSato&theme=onedark)](https://github.com/FubukiSato/github-profile-trophy)
+
 
 
 
