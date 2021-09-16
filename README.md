@@ -1,17 +1,5 @@
 ### 
 
-- 🏫 I'm a university student at the University of Aizu.
-- 🌱 I am currently addicted to creating web applications.(Ruby on Rails)
-- 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
-
-<a href="https://github.com/FubukiSato">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=FubukiSato&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/FubukiSato">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FubukiSato&layout=compact&theme=dracula" />
-</a>
-
-
 <p align="left"> 
   <a href="https://github.com/FubukiSato/FubukiSato/">
     <img src="https://komarev.com/ghpvc/?username=FubukiSato" alt="FubukiSato" />
@@ -29,4 +17,18 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/sugar1009/contributions.svg" />
   </a>
 </p>
+  
+- 🏫 I'm a university student at the University of Aizu.
+- 🌱 I am currently addicted to creating web applications.(Ruby on Rails)
+- 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
+
+<a href="https://github.com/FubukiSato">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=FubukiSato&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/FubukiSato">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FubukiSato&layout=compact&theme=dracula" />
+</a>
+
+
+
 
