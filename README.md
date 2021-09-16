@@ -4,10 +4,7 @@
 - 🌱 I am currently addicted to creating web applications.(Ruby on Rails)
 - 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter(@satofubuki)
 
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=tocoteron&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/tocoteron">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocoteron&layout=compact&theme=dracula" />
-</a>
+<a href="http://twitter.com/satofubuki">
+    <img height="20" src="https://img.shields.io/twitter/follow/satofubuki?label=Twitter&logo=twitter&style=flat" />
+  </a>
 
