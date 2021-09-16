@@ -4,7 +4,12 @@
 - 🌱 I am currently addicted to creating web applications.(Ruby on Rails)
 - 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?FubukiSato=anuraghazra&hide=contribs,prs)
+<a href="https://github.com/FubukiSato">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=FubukiSato&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/FubukiSato">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FubukiSato&layout=compact&theme=dracula" />
+</a>
 
 
 <p align="left"> 
