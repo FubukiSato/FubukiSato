@@ -23,12 +23,10 @@
 -    C , Java , Ruby , HTML , CSS , Jquery  | Ruby on Rails
 - 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
 -    Production: aiaru(https://www.aizujob.com/)
- 
-  <img align="left" height="170px"　src="https://github-readme-stats.vercel.app/api?username=FubukiSato&count_private=true&show_icons=true&theme=gruvbox" />
-
 
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=FubukiSato&show_icons=true&theme=gruvbox" />
 
+<img align="left" height="170px"　src="https://github-readme-stats.vercel.app/api?username=FubukiSato&count_private=true&show_icons=true&theme=gruvbox" />
 
 
 
