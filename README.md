@@ -32,4 +32,4 @@
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FubukiSato&layout=compact&theme=tokyonight)](https://github.com/FubukiSato/)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FubukiSato&theme=monokai)
