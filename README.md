@@ -25,13 +25,11 @@
 -    Production: aiaru(https://www.aizujob.com/)
   
  [![trophy](https://github-profile-trophy.vercel.app/?username=FubukiSato&theme=onedark)](https://github.com/FubukiSato/)
-  <div align="left">
+ 
 <!-- リポジトリステータス -->
 [![Fubuki's github stats](https://github-readme-stats.vercel.app/api?username=FubukiSato&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FubukiSato/)
   
-  
- 
-
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FubukiSato&layout=compact&theme=tokyonight)](https://github.com/FubukiSato/)
-   </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)
