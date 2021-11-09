@@ -23,8 +23,6 @@
 -    C , Java , Ruby , HTML , CSS , Jquery  | Ruby on Rails
 - 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
 -    Production: aiaru(https://www.aizujob.com/)
-  
- [![trophy](https://github-profile-trophy.vercel.app/?username=FubukiSato&theme=onedark)](https://github.com/FubukiSato/)
  
 <!-- リポジトリステータス -->
 [![Fubuki's github stats](https://github-readme-stats.vercel.app/api?username=FubukiSato&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FubukiSato/)
