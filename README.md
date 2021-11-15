@@ -23,6 +23,11 @@
 -    C ,C++ Java , Ruby , HTML , CSS , Jquery  | Ruby on Rails
 - 📫 How to reach me: Email(sato2200007@gmail.com) or Twitter
 -    Production: aiaru(https://www.aizujob.com/)
+  
+  - Idea
+A service like Mercari.
+Dimensional measurement service
+A service that keeps track of where you are in the university.
  
 <!-- リポジトリステータス -->
 [![Fubuki's github stats](https://github-readme-stats.vercel.app/api?username=FubukiSato&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FubukiSato/)
