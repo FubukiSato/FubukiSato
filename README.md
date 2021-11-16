@@ -25,9 +25,9 @@
 -    Production: aiaru(https://www.aizujob.com/)
   
   - Idea
-A service like Mercari.
-Dimensional measurement service
-A service that keeps track of where you are in the university.
+A service like Mercari.</br>
+Dimensional measurement service </br>
+A service that keeps track of where you are in the university. </br>
  
 <!-- リポジトリステータス -->
 [![Fubuki's github stats](https://github-readme-stats.vercel.app/api?username=FubukiSato&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FubukiSato/)
