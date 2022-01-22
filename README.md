@@ -22,7 +22,6 @@
 - 🌱 I am currently addicted to creating web applications.
 -    C ,C++ Java , Ruby , HTML , CSS , Jquery  | Ruby on Rails
 - 📫 How to reach me: Email(sato2200007@gmail.com)
--    Production: aiaru(https://www.aizujob.com)
   
   - Idea
 A service like Mercari.</br>
